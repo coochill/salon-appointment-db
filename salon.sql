@@ -28,4 +28,6 @@ CREATE TABLE appointments (
 INSERT INTO services (name) VALUES
   ('Cut'),
   ('Color'),
-  ('Perm');
+  ('Perm'),
+  ('Style'),
+  ('Trim');
